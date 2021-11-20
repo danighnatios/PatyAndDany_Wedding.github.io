@@ -1281,6 +1281,13 @@ body.offcanvas .oliven-nav-toggle {
   -webkit-transition: all .4s;
   -o-transition: all .4s;
   transition: all .4s; }
+  
+  .organization .item-box p a{
+
+      color: red; 
+  }
+  
+  
 .organization .item-box:last-of-type {
     border-right: 1px solid #F6F1F0; 
 }
