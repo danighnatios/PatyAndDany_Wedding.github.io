@@ -1717,6 +1717,7 @@ body.offcanvas .oliven-nav-toggle {
   align-items: center;
   justify-content: center;
 }
+
 /* Heart */
 .lds-heart {
   display: inline-block;
@@ -1724,6 +1725,14 @@ body.offcanvas .oliven-nav-toggle {
   width: 64px;
   height: 64px;
   transform: rotate(45deg);
+  transform-origin: 32px 32px;
+}
+.lds-heart p{
+  display: inline-block;
+  position: relative;
+  width: 300px;
+  height: 64px;
+  transform: rotate(-45deg);
   transform-origin: 32px 32px;
 }
 .lds-heart div {
