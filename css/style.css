@@ -1588,8 +1588,7 @@ body.offcanvas .oliven-nav-toggle {
     filter: grayscale(100%);
     -webkit-transition: all .5s;
     transition: all .5s;
-		width:100px;
-	height:75px;
+
 }
 
 .gift img:hover {
